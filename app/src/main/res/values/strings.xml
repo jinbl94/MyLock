@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MyLock</string>
+
+    <!-- layout main -->
+    <string name="string_users">User List</string>
+    <string name="delete_all">Delete All</string>
+    <string name="add_user">New User</string>
+    <string name="add_guest">Add Guest</string>
+
+    <!-- layout user_info -->
+    <string name="name">Name</string>
+    <string name="birthyear">Year</string>
+    <string name="birthmonth">Month</string>
+    <string name="birthdate">Date</string>
+    <string name="note">Note</string>
+    <string name="password">Password</string>
+    <string name="password_check">Password</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_unlock">Unlock</string>
+    <string name="button_share">Share</string>
+    <string name="button_save">Save</string>
+    <string name="button_delete">Delete</string>
+    <string name="server_ip">Server IP</string>
+    <string name="server_port">Server port</string>
+    <string name="server_error">Please complete Server information</string>
+
+    <!-- user information check -->
+    <string name="id_error">ID error</string>
+    <string name="name_error">Name error, 6 or more characters are required</string>
+    <string name="year_error">Year error</string>
+    <string name="month_error">Month error</string>
+    <string name="date_error">Date error</string>
+    <string name="addinfo_error">Additional information error, 6 or more characters are required</string>
+    <string name="password_error">Password error, 6 or more characters are required</string>
+
+    <!-- DataBase update -->
+    <string name="password_unmatched">Password unmatched</string>
+    <string name="updated">Updated</string>
+    <string name="update_failed">Update failed</string>
+    <string name="inserted">Inserted</string>
+    <string name="insert_failed">Insert failed</string>
+    <string name="deleted">Deleted</string>
+    <string name="delete_failed">Delete failed</string>
+    <string name="user_not_found">User not found</string>
+
+    <!-- initialize -->
+    <string name="init_success">Initialize succeed</string>
+    <string name="init_failed">Initialize failed</string>
+
+    <!-- add guest -->
+    <string name="local_port">Local Port</string>
+    <string name="local_ip">Local IP Address</string>
+    <string name="button_recieve">Recieve</string>
+    <string name="port_error">Please input validate port</string>
+    <string name="local_address">Local Address:</string>
+</resources>
